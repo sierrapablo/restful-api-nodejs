@@ -1,0 +1,10 @@
+name: restful-api-nodejs-template
+services:
+    YourServiceName:
+        image: YourImageName
+        container_name: YourContainerName
+        ports:
+            - port:port # Optional
+        volumes:
+            - ./data:/path/to/your/docker/data # Optional
+        command: unless-stopped
