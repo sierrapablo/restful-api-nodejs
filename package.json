@@ -4,7 +4,7 @@
   },
   "name": "restful-api-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
