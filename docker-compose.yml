@@ -1,4 +1,4 @@
-name: restful-api-nodejs-template  # Nombre descriptivo de tu plantilla
+name: restful-api-nodejs-template  # Nombre de tu plantilla
 
 services:
   restful-api:  # Nombre del servicio
