@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "express": "^4.21.1"
-  },
   "name": "restful-api-nodejs",
   "version": "1.0.0",
   "description": "Template",
