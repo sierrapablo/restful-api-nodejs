@@ -11,5 +11,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sierrapablo",
-  "license": "MIT"
+  "license": "GPL-3.0"
 }
