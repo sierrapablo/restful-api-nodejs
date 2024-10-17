@@ -1,13 +1,15 @@
 {
+  "dependencies": {
+    "express": "^4.21.1"
+  },
   "name": "restful-api-nodejs",
   "version": "1.0.0",
-  "description": "Template to develop a restful api with nodejs",
+  "description": "",
   "main": "app.js",
+  "devDependencies": {},
   "scripts": {
-    "start": "node app.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "sierrapablo",
+  "license": "MIT"
 }
